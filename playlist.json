@@ -1,0 +1,20 @@
+[
+  {
+    "nama": "Alone pt 2",
+    "artis": "Alan Walker",
+    "path": "./music/one.mp3",
+    "image": "./music/image/one.jpg"
+  },
+  {
+    "nama": "House of memories",
+    "artis": "Panic at the Disco",
+    "path": "./music/two.mp3",
+    "image": "./music/image/two.jpg"
+  },
+  {
+    "nama": "Lemon tree",
+    "artis": "Gustixa",
+    "path": "./music/three.mp3",
+    "image": "./music/image/three.jpg"
+  }
+]
